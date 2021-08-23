@@ -77,9 +77,9 @@ password : pwdpwd
  ## 4. Résultat:  
  
  ![image](./images/sql_file_on_s3.png)  
- ![image](./images/Instance DB sur_RDS.png)  
- ![image](./images/Instance EC2.png)  
- ![image](./images/Instance EC2_2.png)  
- ![image](./images/Accueil Api.png)  
- ![image](./images/Api requete1.png)  
- ![image](./images/Api requete2.png)  
+ ![image](./images/instance_rds.png)  
+ ![image](./images/instance_ec2.png)  
+ ![image](./images/Instance_ec2_2.png)  
+ ![image](./images/accueil_api.png)  
+ ![image](./images/api_requete_1.png)  
+ ![image](./images/api_requete_2.png)  
