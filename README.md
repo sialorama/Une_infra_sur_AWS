@@ -77,7 +77,7 @@ password : pwdpwd
  ## 4. Résultat:  
  
  ![image](./images/DB_SQL_sur S3.png)  
- ![image](./images/instance DB sur_RDS.png)  
+ ![image](./images/Instance DB sur_RDS.png)  
  ![image](./images/Instance EC2.png)  
  ![image](./images/Instance EC2_2.png)  
  ![image](./images/Accueil Api.png)  
