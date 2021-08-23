@@ -1,4 +1,4 @@
-# Mise en place d'une API sur AWS EC2 cinnectée à une DB Postgres sur AWS RDS  
+# Mise en place d'une API sur AWS EC2 connectée à une DB Postgres sur AWS RDS  
 
 Nous réaliserons un infrastructure dans le cloud en utilisant les services EC2, RDS et S3 d'amazon.  
 NB : J'utilise Windows comme OS principal, et Ubuntu sous WSL pour les commande SSH.  
@@ -76,7 +76,7 @@ password : pwdpwd
  ```
  ## 4. Résultat:  
  
- ![image](images/DB_SQL_sur S3.png)  
+ ![image](images/sql_file_on_s3.png)  
  ![image](./images/Instance DB sur_RDS.png)  
  ![image](./images/Instance EC2.png)  
  ![image](./images/Instance EC2_2.png)  
