@@ -74,12 +74,12 @@ password : pwdpwd
    [ec2-user@ip-172-31-94-138 ec2_api]$ sudo docker build -t api:latest .
    [ec2-user@ip-172-31-94-138 ec2_api]$ sudo docker run -p 5000:5000 api
  ```
- ## 4. Résultat
+ ## 4. Résultat:  
  
- ![image](/Api/images/DB_SQL_sur S3.png)  
- ![image](Api/images/instance DB sur_RDS.png)  
-![image](./Api/images/Instance EC2.png)  
-![image](./Api/images/Instance EC2_2.png)  
-![image](./Api/images/Accueil Api.png)  
-![image](./Api/images/Api requete1.png)  
-![image](./Api/images/Api requete2.png)  
+ ![image](./images/DB_SQL_sur S3.png)  
+ ![image](./images/instance DB sur_RDS.png)  
+ ![image](./images/Instance EC2.png)  
+ ![image](./images/Instance EC2_2.png)  
+ ![image](./images/Accueil Api.png)  
+ ![image](./images/Api requete1.png)  
+ ![image](./images/Api requete2.png)  
